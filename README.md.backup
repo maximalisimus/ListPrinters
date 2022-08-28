@@ -63,4 +63,19 @@
 
 В **cmd.bat** файле предусмотрена возможность запуска командной строки из текущей папки от имени администратора по правой кнопки мыши.
 
+```
+	C:\Temp\ListPrinters> listprinters.exe
+```
+
+---
+
+[К оглавлению](#Oglavlenie)
+
+## <a name="About">Обо мне</a>
+
+The author of this development **Shadow**: [maximalisimus](https://github.com/maximalisimus).
+
+Author's name: **maximalisimus**: [E-Mail](mailto:maximalis171091@yandex.ru).
+
+Date of creation: **23.08.2022**
 

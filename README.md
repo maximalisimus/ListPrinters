@@ -64,7 +64,7 @@
 В **cmd.bat** файле предусмотрена возможность запуска командной строки из текущей папки от имени администратора по правой кнопки мыши.
 
 ```
-	C:\Temp\ListPrinters> listprinters	
+	C:\Temp\ListPrinters> listprinters.exe
 ```
 
 ---
